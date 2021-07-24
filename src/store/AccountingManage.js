@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import DateData from './data.json'
+import DateData from '@/assets/data.json'
 import DateManage from './DateDataManage'
 
 Vue.use(Vuex)
