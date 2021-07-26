@@ -1,19 +1,8 @@
-# accounting
+จัดทำโดย
+นาย สหัสวรรษ คนราม
+6210450474
 
-## Project setup
+วิธีการรันโปรแกรม
 ```
-npm install
+เข้าผ่านทางเว็บไซร์ https://sahussavat.github.io/accounting/#/
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
